@@ -1,12 +1,18 @@
-# React + Vite
+# NFC Restaurant Web App 🍽️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
+A React-based web app that enables NFC-enabled devices to instantly access restaurant menus. This project uses **React + Vite** for fast performance, **React Router** for navigation, and **Material UI** for styling.
 
-Currently, two official plugins are available:
+## Features
+✅ NFC-enabled menu access  
+✅ Built with React + Vite  
+✅ Styled with Material UI  
+✅ Mobile-friendly design  
+✅ Easy navigation with React Router  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation & Setup
+Follow these steps to run the project locally:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/rsbryan/nfc-restaurant.git
